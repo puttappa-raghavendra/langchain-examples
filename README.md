@@ -27,3 +27,4 @@ To set up and use this project, follow these steps:
 3. Activate the virtual environment by running `source venv/bin/activate` (for Unix-based systems) or `venv\Scripts\activate` (for Windows).
 4. Install the project dependencies by running `pip install -r requirements.txt`.
 5. Run the unit tests using the command `python -m unittest discover tests`.
+6. Create .env file with OPENAI_API_KEY
