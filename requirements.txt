@@ -1,0 +1,12 @@
+pytest
+langchain
+langchain-core
+langchain-community
+langchain-openai
+
+python-dotenv
+pypdf
+sentence_transformers
+faiss-cpu
+
+yfinance
