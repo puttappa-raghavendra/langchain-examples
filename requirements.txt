@@ -8,5 +8,5 @@ python-dotenv
 pypdf
 sentence_transformers
 faiss-cpu
-
+langchainhub
 yfinance
